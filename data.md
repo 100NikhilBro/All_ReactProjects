@@ -1,0 +1,1 @@
+apiUrl = "https://codehelp-apis.vercel.app/api/get-top-courses";
