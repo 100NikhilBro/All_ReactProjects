@@ -1,6 +1,6 @@
 # 🚀 React Projects Portfolio
 
-A collection of my React-based frontend projects built while learning and practicing core concepts of React, React Router, TanStack Query, and component design.
+A collection of my React-based frontend projects built while learning and practicing core concepts of React, React Router, and component design.
 
 ---
 
